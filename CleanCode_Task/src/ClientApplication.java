@@ -1,10 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-/**
- * Hello world!
- *
- */
+
 public class ClientApplication 
 {
 	
